@@ -10,10 +10,10 @@ Thoughts: Dont lose sight of life outside of Bootcamp - make Bootcamp fit with m
 Links to work / resources:
 
 
-Day 2: 
+Day 2: It was intresting to spend more detil time on computational thinking and really focussing on breaking the problem down and looking for patterns.  Working with GIT is going to be about muscle memory the more you do it hte easier it becomes.
 
-Today's progress:
+Today's progress: Being able to describe GIT, flow diagrams and problem solving to others is cementing my knowledge.
 
-Thoughts:
+Thoughts: I feel as though my literal thinking could also be a blind spot not seeing the grey area not everything is ones and zeros when dealing with people.
 
 Links to work / resources:
